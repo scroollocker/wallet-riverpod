@@ -1,0 +1,16 @@
+{
+    "accounts": [
+        {
+            "currencyCode": "Aud",
+            "balance": 69000
+        },
+        {
+            "currencyCode": "Sgd",
+            "balance": 1000
+        },
+        {
+            "currencyCode": "Nzd",
+            "balance": 2000
+        }
+    ]
+}

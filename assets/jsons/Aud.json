@@ -1,0 +1,38 @@
+{
+    "deposit": {
+        "payId": {
+            "fields": [
+                {
+                    "key": "PayID",
+                    "value": "pay@independentreserve.com"
+                },
+                {
+                    "key": "Reference",
+                    "value": "pay@independentreserve.com"
+                }
+            ],
+            "important": "• PayID / Osko deposits will be processed and credited to your account within 1 business day.\n\n• An AUD 2.50 processing fee will be debited from your Independent Reserve account for deposits below AUD 1,000.00\n\n• Your first PayID / Osko deposit may be delayed due to initial processing by your bank.\n\n• PayID / Osko deposits must be made from a debit account held in your own name. Credit card payments, or payments from accounts in different names will not be processed.\n\n• The Reference must be provided as a transaction description as shown above for funds to be credited to your account."
+        },
+        "transfer": {
+            "fields": [
+                {
+                    "key": "Account name",
+                    "value": "Independent Reserve\nPty Ltd"
+                },
+                {
+                    "key": "BSB",
+                    "value": "806 043"
+                },
+                {
+                    "key": "Account number",
+                    "value": "100242639"
+                },
+                {
+                    "key": "Reference",
+                    "value": "ATFPMRL"
+                }
+            ],
+            "important": "We do not accept cash deposits made at a branch.\n\nDeposits of AUD 100.00 and above are free. An AUD 0.99 processing fee will be debited from your Independent Reserve account for deposits below this amount. Electronic Funds Transfer deposits are usually processed within one business day, but please allow at least two business days before contacting our support staff. Please note that banks do not process Electronic Funds Transfer transactions on weekends or public holidays.\n\nElectronic Funds Transfer Payments must be made from a debit account held in your own name. Credit card payments, or payments from accounts in different names will not be processed.\n\nThe Reference must be provided exactly as shown for funds to be credited to your account."
+        }
+    }
+}
